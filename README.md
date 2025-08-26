@@ -1,4 +1,4 @@
-![logo](https://github.com/Amityaduvanshi203/Amityaduvanshi203/blob/main/git%20hau%20imp.jpg?raw=true)
+
 <h1 align="center">Hi 👋, I'm Amit yadav</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"alt"coding" width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/149519cf-f0c6-413d-b698-a8a139ab4138" />
